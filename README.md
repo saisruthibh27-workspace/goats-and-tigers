@@ -5,6 +5,11 @@
 Bagha Chal, or "Moving Tiger", is an ancient Nepali board game, which has recently attracted attention among game fans under thename Tigers an Goats. It is a two-player game.
 In the game one player controls three tigers and the other player controls up to 15 goats. The tigers 'hunt' the goats while the goats attempt to block the tigers' movements.
 
+🤝 Acknowledgment
+This project was developed as part of the WISE Program project submission.
+It was a collaborative effort by our team, with each member contributing to the design, development, and testing.
+We would also like to express our sincere gratitude to our faculty mentors for their continuous guidance, support, and valuable feedback throughout the project.
+
 ****Team members:****
 
 1. 19WH1A1253 - S. Sai Harshitha
